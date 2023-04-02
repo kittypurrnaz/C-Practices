@@ -1,5 +1,8 @@
 # C-Practices
 _____________________________________________________________________________________
 
-PROJETC 1 : CAESAR (a fun project done as a part of the CS50X coursework)
+PROJECT 1 : CAESAR (a fun project done as a part of the CS50X coursework)
+_____________________________________________________________________________________
+
+PROJECT 2 : SCRABBLE (a fun project done as a part of the CS50X coursework)
 _____________________________________________________________________________________
